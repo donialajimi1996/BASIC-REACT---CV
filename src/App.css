@@ -1,0 +1,20 @@
+.left {
+  background-color: #6f2b38;
+  height: 1300px;
+}
+.right {
+  background-color: #dec6ae;
+  height: 1300px;
+}
+.CV {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  padding: 30px;
+}
+
+.des {
+  padding-left: 3em;
+}
+html {
+  background-color: #f8edef;
+}
